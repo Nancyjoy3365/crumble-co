@@ -18,4 +18,4 @@ A responsive single-page marketing website for an artisan bakery.
 - Zero dependencies — no frameworks or libraries
 
 ## Screenshots
-![Hero Section](screenshot.png)
+[Click here to view hero section](https://github.com/user-attachments/assets/c7cb8124-6ab5-43e7-8b81-458de6bb758a)
